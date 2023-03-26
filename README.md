@@ -11,9 +11,18 @@ Este repositório contém a apresentação de telas do aplicativo com objetivo d
 **As telas incluídas na apresentação são as seguintes:**
 
  - Tela de Inicio;
+ 
+ ![enter image description here](https://lh3.googleusercontent.com/drive-viewer/AAOQEOTRRvsR4LQR4AC75prX6fPfXi8au7d2Zt0rLYWMmRhDaZyS0mIBXXtnBQSXC3Fk2ffy3hWdCUw4Df_wjU0twbo4D0Dz=w1920-h892)
  - Tela de escolha de personagem;
+ 
+ 
+ ![enter image description here](https://lh3.googleusercontent.com/drive-viewer/AAOQEOTtd3ocAJ6d5lHTqDBVlUGLEkkaYz8AaNtQJjwg93D8rfdWJFqE0H10SCGttBHo_JDchoq4dt5IFrHoQMBZv2syp2b6lQ=w1920-h892)
  - Tela com informações do personagem Sasuke Uchiha;
+ 
+![enter image description here](https://lh3.googleusercontent.com/drive-viewer/AAOQEOQegMQl75PrzOFr6Cttylo9g2oJMeqPiFgGrPOyJ33blYVYF9dFEFVGvtxTXzcSmdWSkYBWqKRwHj40NmerLBRtnvRhdA=w1920-h892)
  -  Tela com informações do personagem Kakashi Hatake;
+ 
+ ![enter image description here](https://lh3.googleusercontent.com/drive-viewer/AAOQEORfZSjOdfNKt_b9I5mgPzxWNWpdV-YZhROulb83ZIJkbwUWcp7nZkXpB-URpVk3REWuybR55pv810tSQyyipNC0BImh=w1920-h892)
 
 
 ## **Tecnologias Utilizadas**
