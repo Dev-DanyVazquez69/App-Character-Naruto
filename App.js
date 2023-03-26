@@ -5,6 +5,6 @@ import PageKakashi from './PageKakashi';
 
 export default function App() {
   return (
-    <PageSasuke/>
+    <PageKakashi/>
   );
 }

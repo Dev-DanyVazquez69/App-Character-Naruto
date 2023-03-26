@@ -1,6 +1,6 @@
 import React from "react";
 import { Text, View, ImageBackground, Image} from "react-native";
-import style from "./estilos/S_PageSasuke";
+import style from "./styles/S_PageSasuke";
 
 export default function () {
     return (

@@ -1,7 +1,7 @@
 import React from "react";
 import { TextInput, Text, View, ImageBackground, ScrollView } from "react-native";
-import S_PagePersons from "./estilos/S_PagePersons"
-import Cartoes from "./componentes/cartoes"
+import S_PagePersons from "./styles/S_PagePersons"
+import Cartoes from "./components/cartoes"
 
 
 export default function Persons() {

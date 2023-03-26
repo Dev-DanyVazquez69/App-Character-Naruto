@@ -1,7 +1,7 @@
 import React from "react";
 import { View, Image, ImageBackground, Text} from "react-native";
-import S_PageIndex from "./estilos/S_PageIndex";
-import Botao from "./componentes/botao.js"
+import S_PageIndex from "./styles/S_PageIndex";
+import Botao from "./components/botao.js"
 
 export default function Index(){
    

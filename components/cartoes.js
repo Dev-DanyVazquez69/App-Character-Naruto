@@ -1,6 +1,6 @@
 import React from "react";
 import { Text, View, StyleSheet, Image } from "react-native";
-import S_PagePersons from "../estilos/S_PagePersons";
+import S_PagePersons from "../styles/S_PagePersons";
 
 
 export default function (props) {
